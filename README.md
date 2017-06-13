@@ -20,6 +20,16 @@
 
 ---
 
+## PART
+
+ - 컴퓨터공학과 14학번 이청길 :: PM, 3D Animations, Programming
+ - 컴퓨터공학과 14학번 오현규 :: Level Designer
+ - 컴퓨터공학과 16학번 강재희 :: UI Designer, Programming
+ - 컴퓨터공학과 16학번 김한승 :: Level Artis, Story writer
+
+
+----
+
 ## Processing
 
  2017.04.28(금)
